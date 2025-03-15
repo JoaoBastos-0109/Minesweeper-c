@@ -1,6 +1,6 @@
 # Minesweeper-c
 
-A simple MineSweeper game built in **2023**. It was developed in **two weeks** as a fun project.
+A simple MineSweeper game built in **December 2022**. It was developed in **two weeks** as a fun project.
 
 ## Screenshot
 
